@@ -1,8 +1,3 @@
-***click here to download document of my project : https://github.com/1-mukesh-1/charity/raw/master/document.docx***
-
-
-***Note : complete reviewed document of my project is available in this repository('document.docx')***
-
 
 # charity
 ONLINE CHARITY SYSTEM
