@@ -3,9 +3,6 @@
 ONLINE CHARITY SYSTEM
 
 
-![](assets/images/Screenshot%20(19).png)
-![](assets/images/Screenshot%20(20).png)
-
 1.	PHP
 2.	MYSQL
 3.  jQuery
